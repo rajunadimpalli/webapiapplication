@@ -5,7 +5,8 @@ We've made some big updates in this release, so it’s **important** that you sp
 You've created a new ASP.NET Core project. [Learn what's new](https://go.microsoft.com/fwlink/?LinkId=518016)
 ## How to Add Git to Current Directory
 git remote add origin https://github.com/rajunadimpalli/webapiapplication.git
-
+## Add MsSql extension
+https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode
 git push -u origin master
 ## This application consists of:
 
