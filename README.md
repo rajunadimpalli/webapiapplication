@@ -7,6 +7,7 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 git remote add origin https://github.com/rajunadimpalli/webapiapplication.git
 ## Add MsSql extension
 https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode
+https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
 git push -u origin master
 ## This application consists of:
 
